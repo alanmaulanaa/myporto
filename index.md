@@ -6,12 +6,12 @@ layout: default
 
 <p>
   <a href="https://www.linkedin.com/in/mmubarakahmad/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedinbutton" />
   </a>
   <a href="https://medium.com/@alanmaulana44">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="mediumbutton"/>
   </a>
-  <a href="mailto:maulanamubarakahmad@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:maulanamubarakahmad@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmailbutton"/>
   </a>
   </p>
   
@@ -68,3 +68,5 @@ layout: default
 <details>
   <summary>📃 Summary</summary>
 </details><br>
+
+[Link to another page](./another-page.html).
