@@ -5,7 +5,7 @@ layout: default
 # Data Analyst
 
 <p>
-  <a href="https://www.linkedin.com/in/mmubarakahmad/">
+  <a href="https://www.linkedin.com/in/mmubarakahmad">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedinbutton" />
   </a>
   <a href="https://medium.com/@alanmaulana44">
@@ -26,7 +26,7 @@ layout: default
 
 ### **California Bikesharing**  
 <a href="https://github.com/alanmaulanaa/bikeshare"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="githubbutton"/></a>
-<a href="https://bikeshare-dicoding.streamlit.app/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="streamlitbutton"/></a>
+<a href="https://bikeshare-dicoding.streamlit.app"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="streamlitbutton"/></a>
 <details>
   <summary>📃 Summary</summary>
 </details><br>
